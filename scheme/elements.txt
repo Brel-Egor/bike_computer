@@ -1,0 +1,1 @@
+sf1-magnet reed(геркон на замыкание);R1,2-220Omh;R3,4,5-10kOmh;LCD-LCD1602 with i2c bus
